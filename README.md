@@ -24,7 +24,7 @@ Run the `./examples/Evil_Geniuses/system_playing.py` script to generate the agen
 
 Run the `./examples/Evil_Geniuses/role_playing.py` script to generate the system role
 
-Once we have the generated role, we can put it into the System Prompt in LLM-based agents to define the evil role of system/agent.
+Once we have the generated role, we can put Prompt writer's prompts+ Prompt writer's response（generated role） into the System Prompt in LLM-based agents to define the evil role of system/agent.
 
 First, you need to add your OpenAI API key to system environment variables. The method to do this depends on your operating system and the shell you're using.
 
