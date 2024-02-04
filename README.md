@@ -7,7 +7,7 @@ Recent advancements in LLM-based agents (especially multi-agent ones that we inv
 
 ## 24.02.04
 We develop an agent using the Hugging Chat Assistant framework, intend strictly for scientific research purposes. Please ensure it is not employed in any unlawful contexts.
-https://huggingface.co/chat/conversation/65bf38bf99714ca3fd235dc9
+[https://huggingface.co/chat/conversation/65bf38bf99714ca3fd235dc9](https://hf.co/chat/assistant/65bf38aa60ffc5f4b2487999)
 ## Methods
 <img src=".\img\method.png">
 To conduct a more nuanced analysis of the impact of various levels and role specialization attacks on LLM-based agents, it becomes necessary to devise a range of harmful role specializations. Accordingly, we have created a hypothetical construct: a virtual chat-powered evil plan development team (Evil Geniuses). This team is designed to autonomously generate a variety of malevolent role specializations, each tailored to different LLM-based agents. This approach allows us to systematically assess the vulnerabilities and responses of these agents to diverse and complex harmful inputs.
